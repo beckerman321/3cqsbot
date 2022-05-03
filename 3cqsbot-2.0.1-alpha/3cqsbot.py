@@ -9,7 +9,7 @@ import sys
 import os
 import portalocker
 import math
-
+import singlebot
 from telethon import TelegramClient, events
 from py3cw.request import Py3CW
 from singlebot import SingleBot
