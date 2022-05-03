@@ -42,7 +42,7 @@ single_count = 1
 [trading]
 market = USDT
 trade_mode = paper
-account_name = "Your paper account here - without quotes"
+account_name = Paper Account 472699
 #delete_single_bots = false
 #singlebot_update = true
 # Binance only
