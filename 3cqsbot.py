@@ -9,7 +9,7 @@ import math
 
 from telethon import TelegramClient, events
 from py3cw.request import Py3CW
-from singlebot.py import SingleBot
+from singlebot import SingleBot
 from multibot import MultiBot
 from signals import Signals
 from logging.handlers import RotatingFileHandler
