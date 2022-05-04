@@ -1,13 +1,13 @@
 import re
 import json
- import time
+import time
 
- from signals import Signals
+from signals import Signals
 
- deal_lock = False
+deal_lock = False
 
 
- class SingleBot:
+class SingleBot:
      def __init__(self, tg_data, bot_data, account_data, attributes, p3cw, logging):
          self.tg_data = tg_data
          self.bot_data = bot_data
